@@ -1,4 +1,3 @@
-# About Me:
 Final-year B.Tech student in AI & Data Science with experience in building AI-powered applications using Python, FastAPI, Next.js, RAG, and Generative AI. Passionate about solving real-world problems through scalable software and intelligent systems.
 
 
