@@ -1,162 +1,137 @@
-<div align="center">
+```
+ ██████╗ ██╗   ██╗██╗      █████╗ ██████╗ 
+██╔════╝ ██║   ██║██║     ██╔══██╗██╔══██╗
+██║  ███╗██║   ██║██║     ███████║██████╔╝
+██║   ██║██║   ██║██║     ██╔══██║██╔══██╗
+╚██████╔╝╚██████╔╝███████╗██║  ██║██████╔╝
+ ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ 
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00c6ff&height=250&section=header&text=Gulab%20Jangid&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20Agentic%20Systems&descAlignY=58&descSize=20" width="100%" alt="header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00E5A0&vCenter=true&width=560&lines=hi%2C+i%27m+gulab.;i+build+agents+that+do+real+work;RAG%2C+LLMs%2C+MLOps%2C+and+the+odd+full-stack+app;founding+engineer+%40+OBLIQ.in;final+year+%40+AISSMS+IOIT%2C+Pune;looking+for+my+next+role.+say+hi." alt="typing intro"/>
 
-<a href="https://github.com/Gulabjangid">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&width=760&height=50&lines=Final-year+B.Tech+%7C+AI+%26+Data+Science;Founding+Engineer+%40+OBLIQ.in;Building+RAG%2C+multi-agent+%26+MLOps+systems;Python+%E2%80%A2+FastAPI+%E2%80%A2+Next.js+%E2%80%A2+LangGraph;Turning+messy+real-world+problems+into+shipped+software" alt="Typing SVG"/>
-</a>
+```console
+gulab@pune:~$ whoami
+gulab jangid. final-year b.tech, ai & data science. class of 2027.
+
+gulab@pune:~$ cat now.txt
+> founding engineer at OBLIQ.in. it's a CA audit workflow platform:
+  messy financial data goes in, validation, evidence review and audit trails come out.
+> finishing AgentMesh, my final-year project.
+> studying for AWS Cloud Practitioner (still a beginner, being honest).
+> looking for the next role. paid. AI/ML or full stack. remote or pune.
+
+gulab@pune:~$ git log --oneline
+2026-09  founding engineer @ OBLIQ.in
+2026-03  junior python developer @ sr associates (till jun 2026)
+2025     2nd place, PICT TechAccelerate, Pune
+2027     b.tech, ai & data science @ AISSMS IOIT (graduating)
+```
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00c6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ten-gold-21.vercel.app)
-[![GitHub followers](https://img.shields.io/github/followers/Gulabjangid?style=for-the-badge&logo=github&color=302b63)](https://github.com/Gulabjangid?tab=followers)
-![Profile views](https://komarev.com/ghpvc/?username=gulabjangid&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge)
-![Open to work](https://img.shields.io/badge/OPEN%20TO%20WORK-AI%2FML%20%C2%B7%20Full%20Stack-22c55e?style=for-the-badge)
+## ~/projects
 
-</div>
+The ones I'd want you to look at first.
 
----
+### LEGALMIND
+Ask a question about Indian law and get an answer pulled from the actual documents instead of a confident guess. It's a RAG pipeline over Indian legal corpora, with login and everything, so it's a real app and not a notebook.
 
-## About Me
+<details>
+<summary>stack</summary>
 
-Final-year **B.Tech** student in **AI & Data Science** (AISSMS Institute of Information Technology, Pune · Class of 2027) who builds **AI-powered applications** with Python, FastAPI, Next.js, RAG and Generative AI. I like solving real-world problems with scalable software and intelligent systems, and I ship things end to end: data, models, APIs, UI, deployment.
+Next.js, Gemini 2.5 Flash, Pinecone, PostgreSQL, Prisma, Better Auth
 
-```python
-class Gulab:
-    role      = "Founding Engineer @ OBLIQ.in"
-    studying  = "B.Tech, AI & Data Science (2027)"
-    location  = "Pune, India 🇮🇳 (open to remote)"
-    building  = ["Agentic systems", "RAG pipelines", "MLOps platforms"]
-    languages = ["Python", "TypeScript", "C++"]
-    learning  = ["AWS Cloud Practitioner", "Production-grade agent design"]
-    seeking   = "AI/ML · Data Science · Full Stack · LLM/RAG · MLOps roles"
+</details>
 
-    def motto(self):
-        return "Build it. Ship it. Measure it. Improve it."
-```
+### ADT-SE (Agentic Digital Twin for Software Engineering)
+Team project (four of us). It builds a "digital twin" of a repo: parses the code, indexes it semantically, maps the dependency graph. Then seven agents (product manager, architect, security, developer, tester, reviewer, devops) work through a change in LangGraph. If tests or review fail, the loop retries. After every change the twin re-indexes itself, so it never works from a stale picture of the code.
 
----
+<details>
+<summary>stack</summary>
 
-## Projects
+Python, FastAPI, React, Gemini, LangGraph, ChromaDB, NetworkX, MCP, Docker, Git/GitHub
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### ⚖️ LEGALMIND
-**RAG pipeline for Indian legal corpora.**
-Retrieval-augmented question answering over Indian legal documents, with grounded answers, vector search and authenticated user sessions.
-
-`Next.js` `Gemini 2.5 Flash` `Pinecone` `PostgreSQL` `Prisma` `Better Auth`
-
-[**→ View repo**](https://github.com/Gulabjangid?tab=repositories)
-
-</td>
-    <td width="50%" valign="top">
-
-### 🧬 ADT-SE: Agentic Digital Twin for Software Engineering
-**A repository-aware Digital Twin driving a 7-agent SWE workflow.**
-Parses code, indexes it semantically and maps dependencies, then runs Product Manager, Architect, Security, Developer, Tester, Reviewer and DevOps agents through LangGraph, with self-healing retry loops, CI/CD generation and re-indexing after every change.
-
-`Python` `FastAPI` `React` `LangGraph` `Gemini` `ChromaDB` `NetworkX` `MCP` `Docker`
-
-[**→ View repo**](https://github.com/Gulabjangid?tab=repositories)
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+</details>
 
 ### KRONOS
-**MLOps stock-forecasting terminal.**
-Production-style forecasting with automated pipelines, experiment tracking and containerised serving.
+A stock forecasting terminal that's built like a production system: Prophet for the forecasts, FastAPI to serve them, MLflow to track experiments, GitHub Actions and Docker holding it together.
 
-`Prophet` `FastAPI` `MLflow` `GitHub Actions` `Docker`
+<details>
+<summary>stack</summary>
 
-[**→ View repo**](https://github.com/Gulabjangid?tab=repositories)
+Prophet, FastAPI, MLflow, GitHub Actions, Docker
 
-</td>
-    <td width="50%" valign="top">
+</details>
 
 ### AgentMesh
-**Multi-agent AI orchestration platform** (final-year project).
-Graph-based MCP tool discovery with capability ranking, Neo4j/Qdrant graph memory, adaptive SLM-to-cloud routing and a multi-agent scheduler.
+My final-year project. Agents that find tools by walking a graph (MCP tool discovery, ranked by what each tool can actually do), remember things in Neo4j and Qdrant, and decide per task whether a small local model is enough or the cloud model is needed.
 
-`Python` `Neo4j` `Qdrant` `MCP` `Multi-Agent`
+<details>
+<summary>stack</summary>
 
-[**→ View repo**](https://github.com/Gulabjangid?tab=repositories)
+Python, MCP, Neo4j, Qdrant, multi-agent scheduling
 
-</td>
-  </tr>
-</table>
+</details>
 
----
+All the repos live [here](https://github.com/Gulabjangid?tab=repositories).
 
-## Experience
+<br/>
 
-| When | Role | What I did |
-|:--|:--|:--|
-| **Sep 2026 – Present** | **Founding Engineer** · OBLIQ.in | Building a CA audit workflow platform: financial data processing, validation mechanisms, evidence review workflows, audit trails and automated testing. |
-| **Mar 2026 – Jun 2026** | **Junior Python Developer** · sr associates | Python development work on production code. |
+## ~/side-quests
 
+The less serious stuff. Some of these are my favourite things I've made.
 
-## Tech Stack
+- **Agents that date each other.** A 3-hour challenge: 25 real people, one agent per person (from their LinkedIn and Instagram), the agents go on dates, a judge agent scores them, everyone gets personal rankings. Google ADK, Gemini, FastAPI.
+- **Imagine.** An image generation app that rewrites your lazy prompt into a good one before it generates. Got 2nd place at PICT TechAccelerate 2025.
+- **LeetHub, but louder.** I tweaked the LeetHub extension so every LeetCode submission gets a full README written by Gemini. Most of the work was fixing 404s from model names that had been deprecated.
+- **A Telegram bulk downloader.** Wrote a Telethon script to download every video from a channel, then found out Telegram Desktop already has a "Download all media" button. Lesson learned, script stays.
+- **A FastAPI agent that writes .docx files.** Give it a task, it plans, writes and hands you a Word document.
 
-**Languages**<br/>
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<br/>
 
-**AI / LLM / RAG**<br/>
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-333?style=for-the-badge)
+## ~/stack
 
-**ML / Data Science**<br/>
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+<img src="https://skillicons.dev/icons?i=py,ts,cpp,c,fastapi,nextjs,react,vite,tailwind,postgres,mysql,firebase,prisma,neo4j,docker,githubactions,pytorch,tensorflow,sklearn,pandas,numpy,vercel&perline=11&theme=dark" alt="tech stack icons"/>
 
-**Backend & Frontend**<br/>
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+No icon exists for the rest, so in words: Gemini, LangGraph, ChromaDB, Pinecone, Qdrant, MCP, MLflow, Prophet, NetworkX, Keras, SciPy, Matplotlib, Render. Learning: AWS.
 
-**Databases**<br/>
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+<br/>
 
-**MLOps & DevOps**<br/>
-![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+## ~/activity
 
-**Currently learning**<br/>
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner%20(in%20progress)-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gulabjangid/Gulabjangid/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gulabjangid/Gulabjangid/output/github-snake.svg" />
+  <img alt="contribution snake eating my commits" src="https://raw.githubusercontent.com/Gulabjangid/Gulabjangid/output/github-snake.svg" />
+</picture>
 
----
+<p>
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=gulabjangid&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=false&count_private=false" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gulabjangid&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=false&count_private=false" alt="top languages"/>
+</p>
 
-## GitHub Stats
+<br/>
 
-<div align="center">
+## ~/hire-me
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=gulabjangid&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gulabjangid&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top languages"/>
+Internship with PPO, full-time, graduate trainee program, any of these works as long as it's paid. AI/ML, data science, full stack, LLM and RAG work, MLOps. Remote or Pune.
 
-<img src="https://streak-stats.demolab.com/?user=gulabjangid&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gulabjangid&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
-
-</div>
-
----
-
-##  Open To
-
-- 🔹 **Internships with PPO**, **full-time roles** and **graduate trainee programs**
-- 🔹 Focus areas: **AI/ML · Data Science · Full Stack · LLMs · RAG · MLOps**
-- 🔹 **Remote** or **Pune**-based
-
-##  Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--ten--gold--21.vercel.app-00c6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ten-gold-21.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Gulabjangid-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gulabjangid)
-<!-- Add your own links below, then delete this comment:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+- portfolio: [portfolio-ten-gold-21.vercel.app](https://portfolio-ten-gold-21.vercel.app)
+- github: you're already here
+<!-- add your own, then delete this comment
+- linkedin: https://www.linkedin.com/in/YOUR_HANDLE
+- email: YOUR_EMAIL
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:302b63,100:0f0c29&height=140&section=footer&text=Thanks%20for%20stopping%20by%20%E2%9C%A8&fontSize=24&fontColor=ffffff&fontAlignY=68" width="100%" alt="footer"/>
+<details>
+<summary>don't open this</summary>
 
-</div>
+<br/>
+
+there's nothing in here. go hire me instead.
+
+</details>
+
+<br/>
+
+<sub><img src="https://komarev.com/ghpvc/?username=gulabjangid&label=you+are+visitor+no.&color=00E5A0&style=flat-square" alt="visitor counter"/></sub>
