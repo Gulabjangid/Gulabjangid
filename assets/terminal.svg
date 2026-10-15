@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="376" viewBox="0 0 1000 376" role="img" aria-label="Terminal: about Gulab Jangid">
+<defs>
+<clipPath id="c0"><rect x="0" y="66" width="940" height="26"><animate attributeName="width" values="0;0;940;940" keyTimes="0;0.0444;0.1222;1" dur="9.0s" fill="freeze"/></rect></clipPath>
+<clipPath id="c1"><rect x="0" y="90" width="940" height="26"><animate attributeName="width" values="0;0;940;940" keyTimes="0;0.1333;0.2000;1" dur="9.0s" fill="freeze"/></rect></clipPath>
+<clipPath id="c2"><rect x="0" y="118" width="940" height="26"><animate attributeName="width" values="0;0;940;940" keyTimes="0;0.2222;0.3000;1" dur="9.0s" fill="freeze"/></rect></clipPath>
+<clipPath id="c3"><rect x="0" y="142" width="940" height="26"><animate attributeName="width" values="0;0;940;940" keyTimes="0;0.3111;0.3778;1" dur="9.0s" fill="freeze"/></rect></clipPath>
+<clipPath id="c4"><rect x="0" y="170" width="940" height="26"><animate attributeName="width" values="0;0;940;940" keyTimes="0;0.4000;0.4778;1" dur="9.0s" fill="freeze"/></rect></clipPath>
+<clipPath id="c5"><rect x="0" y="194" width="940" height="26"><animate attributeName="width" values="0;0;940;940" keyTimes="0;0.4889;0.5556;1" dur="9.0s" fill="freeze"/></rect></clipPath>
+<clipPath id="c6"><rect x="0" y="222" width="940" height="26"><animate attributeName="width" values="0;0;940;940" keyTimes="0;0.5778;0.6556;1" dur="9.0s" fill="freeze"/></rect></clipPath>
+<clipPath id="c7"><rect x="0" y="246" width="940" height="26"><animate attributeName="width" values="0;0;940;940" keyTimes="0;0.6667;0.7333;1" dur="9.0s" fill="freeze"/></rect></clipPath>
+<clipPath id="c8"><rect x="0" y="274" width="940" height="26"><animate attributeName="width" values="0;0;940;940" keyTimes="0;0.7556;0.8333;1" dur="9.0s" fill="freeze"/></rect></clipPath>
+<clipPath id="c9"><rect x="0" y="298" width="940" height="26"><animate attributeName="width" values="0;0;940;940" keyTimes="0;0.8444;0.9111;1" dur="9.0s" fill="freeze"/></rect></clipPath>
+</defs>
+<rect x="0.5" y="0.5" width="999" height="375" rx="12" fill="#0f151b" stroke="#263238"/>
+<path d="M1 12 a11 11 0 0 1 11 -11 H988 a11 11 0 0 1 11 11 V40 H1 Z" fill="#141c24"/>
+<circle cx="24" cy="21" r="6" fill="#ff5f56"/>
+<circle cx="46" cy="21" r="6" fill="#ffbd2e"/>
+<circle cx="68" cy="21" r="6" fill="#27c93f"/>
+<text x="500.0" y="26" text-anchor="middle" font-family="'Courier New',Courier,monospace" font-size="13" fill="#9aa7b0">gulab@pune: ~/about</text>
+<g clip-path="url(#c0)"><text x="30" y="84" font-family="'Courier New',Courier,monospace" font-size="15"><tspan fill="#7bd36b" font-weight="bold">$ </tspan><tspan fill="#e8e4d9">whoami</tspan></text></g>
+<g clip-path="url(#c1)"><text x="54" y="108" font-family="'Courier New',Courier,monospace" font-size="15" fill="#6fb3d9">→ gulab jangid · AI / ML engineer</text></g>
+<g clip-path="url(#c2)"><text x="30" y="136" font-family="'Courier New',Courier,monospace" font-size="15"><tspan fill="#7bd36b" font-weight="bold">$ </tspan><tspan fill="#e8e4d9">cat education.txt</tspan></text></g>
+<g clip-path="url(#c3)"><text x="54" y="160" font-family="'Courier New',Courier,monospace" font-size="15" fill="#6fb3d9">→ B.Tech, AI &amp; Data Science · AISSMS IOIT, Pune · 2023-2027</text></g>
+<g clip-path="url(#c4)"><text x="30" y="188" font-family="'Courier New',Courier,monospace" font-size="15"><tspan fill="#7bd36b" font-weight="bold">$ </tspan><tspan fill="#e8e4d9">cat now.txt</tspan></text></g>
+<g clip-path="url(#c5)"><text x="54" y="212" font-family="'Courier New',Courier,monospace" font-size="15" fill="#6fb3d9">→ Founding Engineer @ OBLIQ.in · CA audit workflow platform</text></g>
+<g clip-path="url(#c6)"><text x="30" y="240" font-family="'Courier New',Courier,monospace" font-size="15"><tspan fill="#7bd36b" font-weight="bold">$ </tspan><tspan fill="#e8e4d9">cat focus.txt</tspan></text></g>
+<g clip-path="url(#c7)"><text x="54" y="264" font-family="'Courier New',Courier,monospace" font-size="15" fill="#6fb3d9">→ RAG · LLM apps · AI agents · backend integration · automation</text></g>
+<g clip-path="url(#c8)"><text x="30" y="292" font-family="'Courier New',Courier,monospace" font-size="15"><tspan fill="#7bd36b" font-weight="bold">$ </tspan><tspan fill="#e8e4d9">echo $PRINCIPLES</tspan></text></g>
+<g clip-path="url(#c9)"><text x="54" y="316" font-family="'Courier New',Courier,monospace" font-size="15" fill="#6fb3d9">→ reliability · scalability · practical impact</text></g>
+<text x="30" y="344" font-family="'Courier New',Courier,monospace" font-size="15" fill="#7bd36b" font-weight="bold">$</text>
+<rect x="48" y="331" width="9" height="16" fill="#7bd36b"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>
