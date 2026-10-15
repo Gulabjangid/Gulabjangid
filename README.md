@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Gulab Jangid - AI / ML Engineer" width="100%"/>
+<img src="./assets/banner.svg" alt="Gulab Jangid, AI / ML developer" width="100%"/>
 
 <br/>
 
@@ -18,7 +18,12 @@
 
 <img src="./assets/h_about.svg" alt="Who I am" width="100%"/>
 
-<img src="./assets/terminal.svg" alt="whoami terminal" width="100%"/>
+<p align="center">
+Final-year AI &amp; Data Science student. I build AI apps with Python, FastAPI and Next.js,<br/>
+mostly around RAG and GenAI, and I'd like an internship where I get to ship real things.
+</p>
+
+<img src="./assets/terminal.svg" alt="Details: B.Tech AI and Data Science at AISSMS IIT Pune, graduating 2027, looking for fresher internships" width="100%"/>
 
 <br/>
 
