@@ -20,7 +20,7 @@
 
 <p align="center">
 Final-year AI &amp; Data Science student. I build AI apps with Python, FastAPI and Next.js,<br/>
-
+mostly around RAG and GenAI, and I'd like an internship where I get to ship real things.
 </p>
 
 <img src="./assets/terminal.svg" alt="Details: B.Tech AI and Data Science at AISSMS IIT Pune, graduating 2027, looking for fresher internships" width="100%"/>
@@ -33,6 +33,9 @@ Final-year AI &amp; Data Science student. I build AI apps with Python, FastAPI a
 
 <br/>
 
+<img src="./assets/h_awards.svg" alt="Achievements" width="100%"/>
+
+<img src="./assets/achievements.svg" alt="JEE top 9 percentile; 2nd place PICT TechAccelerate 2025" width="100%"/>
 
 <br/>
 
