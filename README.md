@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Final-year **B.Tech** student in **AI & Data Science** (AISSMS Institute of Information Technology, Pune · Class of 2027) who builds **AI-powered applications** with Python, FastAPI, Next.js, RAG and Generative AI. I like solving real-world problems with scalable software and intelligent systems, and I ship things end to end: data, models, APIs, UI, deployment.
 
@@ -37,7 +37,7 @@ class Gulab:
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
 <table>
   <tr>
@@ -67,7 +67,7 @@ Parses code, indexes it semantically and maps dependencies, then runs Product Ma
   <tr>
     <td width="50%" valign="top">
 
-### 📈 KRONOS
+### KRONOS
 **MLOps stock-forecasting terminal.**
 Production-style forecasting with automated pipelines, experiment tracking and containerised serving.
 
@@ -78,7 +78,7 @@ Production-style forecasting with automated pipelines, experiment tracking and c
 </td>
     <td width="50%" valign="top">
 
-### 🕸️ AgentMesh
+### AgentMesh
 **Multi-agent AI orchestration platform** (final-year project).
 Graph-based MCP tool discovery with capability ranking, Neo4j/Qdrant graph memory, adaptive SLM-to-cloud routing and a multi-agent scheduler.
 
@@ -92,19 +92,15 @@ Graph-based MCP tool discovery with capability ranking, Neo4j/Qdrant graph memor
 
 ---
 
-## 💼 Experience
+## Experience
 
 | When | Role | What I did |
 |:--|:--|:--|
 | **Sep 2026 – Present** | **Founding Engineer** · OBLIQ.in | Building a CA audit workflow platform: financial data processing, validation mechanisms, evidence review workflows, audit trails and automated testing. |
 | **Mar 2026 – Jun 2026** | **Junior Python Developer** · sr associates | Python development work on production code. |
 
-### 🏆 Achievements
-- 🥈 **2nd Place**, PICT TechAccelerate 2025 (Pune): AI-powered image generation platform with intelligent prompt enhancement.
 
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**<br/>
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -129,7 +125,7 @@ Graph-based MCP tool discovery with capability ranking, Neo4j/Qdrant graph memor
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -144,13 +140,13 @@ Graph-based MCP tool discovery with capability ranking, Neo4j/Qdrant graph memor
 
 ---
 
-## 🎯 Open To
+##  Open To
 
 - 🔹 **Internships with PPO**, **full-time roles** and **graduate trainee programs**
 - 🔹 Focus areas: **AI/ML · Data Science · Full Stack · LLMs · RAG · MLOps**
 - 🔹 **Remote** or **Pune**-based
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
