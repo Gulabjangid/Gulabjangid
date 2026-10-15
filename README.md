@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Gulab Jangid, AI / ML developer" width="100%"/>
+<img src="./assets/banner.svg" alt="Gulab Jangid, Software developer" width="100%"/>
 
 <br/>
 
@@ -19,11 +19,10 @@
 <img src="./assets/h_about.svg" alt="Who I am" width="100%"/>
 
 <p align="center">
-Final-year AI &amp; Data Science student. I build AI apps with Python, FastAPI and Next.js,<br/>
-mostly around RAG and GenAI, and I'd like an internship where I get to ship real things.
+Turning caffeine into commits.
 </p>
 
-<img src="./assets/terminal.svg" alt="Details: B.Tech AI and Data Science at AISSMS IIT Pune, graduating 2027, looking for fresher internships" width="100%"/>
+<img src="./assets/terminal.svg" alt="Details: B.Tech AI and Data Science at AISSMS IOIT Pune" width="100%"/>
 
 <br/>
 
@@ -31,13 +30,7 @@ mostly around RAG and GenAI, and I'd like an internship where I get to ship real
 
 <img src="./assets/skills.svg" alt="Skills: languages, AI/ML, frameworks, databases, concepts, cloud" width="100%"/>
 
-<br/>
 
-<img src="./assets/h_awards.svg" alt="Achievements" width="100%"/>
-
-<img src="./assets/achievements.svg" alt="JEE top 9 percentile; 2nd place PICT TechAccelerate 2025" width="100%"/>
-
-<br/>
 
 <img src="./assets/h_stats.svg" alt="GitHub activity" width="100%"/>
 
